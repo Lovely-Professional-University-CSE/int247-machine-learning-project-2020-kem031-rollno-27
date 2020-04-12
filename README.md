@@ -8,6 +8,7 @@ int247-machine-learning-project-2020-kem031-rollno-27 created by GitHub Classroo
 ## Website URL
 <a href="https://sites.google.com/view/digitrecognition-kem031-27/home"> Click to view project site </a>
 
+## MNIST Dataset description
 Samples provided from MNIST (Modified National Institute of Standards and Technology) dataset includes handwritten digits total of 70,000 images consisting of 60,000 examples in training set and 10,000 examples in testing set, both with labeled images from 10 digits (0 to 9). This is a small segment form the wide set from NIST where size was normalized to fit a 20*20 pixel box and not altering the aspect ratio. Handwritten digits are images in the form of 28*28 gray scale intensities of images representing an image along with the first column to be a label (0 to 9) for every image. The same has opted for the case of the testing set as 10,000 images with a label of 0 to 9.
 
 ## CNN Model
